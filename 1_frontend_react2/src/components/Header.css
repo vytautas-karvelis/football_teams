@@ -1,0 +1,21 @@
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    
+}
+
+* {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+ul  {
+   display: flex;
+}
+
+li:last-child {
+    margin-left: 2rem;
+}

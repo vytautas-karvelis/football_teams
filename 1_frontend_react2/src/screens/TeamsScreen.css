@@ -1,0 +1,7 @@
+.teamsScreen {
+    max-width: 1000px;
+    margin: 5rem auto;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
